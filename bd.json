@@ -1,0 +1,85 @@
+{
+    "apiVersion": "1.0",
+    "data": {
+        "products": [
+            {
+                "id": 1,
+                "img": "/img/product-5.jpg",
+                "name": "apple, MacBook air",
+                "description": "Lorem ipsum dolor...",
+                "price": 18330,
+                "category": "notebook",
+                "brand": "apple"
+            },
+            {
+                "id": 2,
+                "img": "/img/product-3.jpg",
+                "name": "sony, camera",
+                "description": "Lorem ipsum dolor...",
+                "price": 25000,
+                "category": "camera",
+                "brand": "sony"
+            },
+            {
+                "id": 3,
+                "img": "/img/product-6.jpg",
+                "name": "JBL, headphone bluetooth",
+                "description": "Lorem ipsum dolor...",
+                "price": 800,
+                "category": "fone",
+                "brand": "jbl"
+            },
+            {
+                "id": 4,
+                "img": "/img/product-1.jpg",
+                "name": "apple, iphone 16 pro max",
+                "description": "Lorem ipsum dolor...",
+                "price": 9000,
+                "category": "celular",
+                "brand": "apple"
+            },
+            {
+                "id": 5,
+                "img": "/img/product-4.jpg",
+                "name": "apple, MacBook pro 17, usado",
+                "description": "Lorem ipsum dolor...",
+                "price": 6000,
+                "category": "notebook",
+                "brand": "apple"
+            },
+            {
+                "id": 6,
+                "img": "/img/product-7.jpg",
+                "name": "JBL, caixa de som bluetooth",
+                "description": "Lorem ipsum dolor...",
+                "price": 1200,
+                "category": "caixa de som",
+                "brand": "jbl"
+            },
+            {
+                "id": 7,
+                "img": "/img/product-1.jpg",
+                "name": "apple, iphone 14 pro max",
+                "description": "Lorem ipsum dolor...",
+                "price": 5300,
+                "category": "celular",
+                "brand": "apple"
+            },
+            {
+                "id": 8,
+                "img": "/img/product-1.jpg",
+                "name": "apple, iphone 15 pro max",
+                "description": "Lorem ipsum dolor...",
+                "price": 7000,
+                "category": "celular",
+                "brand": "apple"
+            }
+        ]
+    },
+    "pagination": {
+        "currentPage": 1,
+        "totalPages": 2,
+        "totalItems": 8,
+        "pageSize": 1
+    }
+}

@@ -53,24 +53,6 @@
             "price": 1200,
             "category": "caixa de som",
             "brand": "jbl"
-        },
-        {
-            "id": 7,
-            "img": "/img/product-1.jpg",
-            "name": "apple, iphone 14 pro max",
-            "description": "Lorem ipsum dolor...",
-            "price": 5300,
-            "category": "celular",
-            "brand": "apple"
-        },
-        {
-            "id": 8,
-            "img": "/img/product-1.jpg",
-            "name": "apple, iphone 15 pro max",
-            "description": "Lorem ipsum dolor...",
-            "price": 7000,
-            "category": "celular",
-            "brand": "apple"
         }
     ]
 }
